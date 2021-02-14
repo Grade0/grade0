@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://lucacorbucci.me">Davide Chen</a></strong>.
+</h1>
+<p align="center">
+  <a href="https://davidechen.it">Website</a> •
+  <a href="https://www.linkedin.com/in/davide-chen-89aa02145/">Linkedin</a>
+</p>
 
-<!--
-**Grade0/grade0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+📌 Pisa, Tuscany, Italy  
+🎓 Computer Science student @ University of Pisa.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JAVA | C | Python |
+- 🌐 &nbsp; HTML | CSS | JavaScript | PL/SQL
+- 🔧 &nbsp; Git | Markdown |
