@@ -13,5 +13,5 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JAVA | C | Python |
-- 🌐 &nbsp; HTML | CSS | JavaScript | PL/SQL
+- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | PL/SQL
 - 🔧 &nbsp; Git | Markdown |
