@@ -8,7 +8,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 📌 Pisa, Tuscany, Italy  
-🎓 MSc student in Data Science and Business Informatics | Computer Science graduate @ University of Pisa.  
+🎓 MSc student in Data Science and Business Informatics| 
+   Computer Science graduate @ University of Pisa.  
 
 <h3>🛠 Tech Stack</h3>
 
