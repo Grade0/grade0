@@ -2,7 +2,7 @@
 </h1>
 <p align="center">
   <a href="https://davidechen.it">Website</a> •
-  <a href="https://www.linkedin.com/in/davide-chen-89aa02145/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/davide-chen/">Linkedin</a>
 </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
